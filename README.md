@@ -5,13 +5,14 @@
 
 # Quick Video Demo:
 
+<iframe src="https://drive.google.com/file/d/1OBCACd7CLvhVe8dWXQFIKfmZnavOOpzh/view?usp=drive_link">
 
 # Technical implementation:
-Programming language:  C
-The program runs on the ARM processor in the DE1-SoC computer, 
-Note that the DE1-SoC board mainly consists of an FPGA and a Hard Processor System (HPS)
-Reads input from PS/2 keyboard connected to the computer
-Game interface is drawn on the VGA display by writing values into the pixel buffer
-Wrote helper functions to draw lines, circles, etc. on the VGA display by calculating the appropriate pixel locations to draw on
-Screen is constantly refreshed to create animation
-The code running on DE1-SoC computer and the PS/2 keyboard input can be simulated using CPUlator
+- Programming language:  C
+- The program runs on the ARM processor in the DE1-SoC computer, 
+  - Note that the DE1-SoC board mainly consists of an FPGA and a Hard Processor System (HPS)
+- Reads input from PS/2 keyboard connected to the computer
+- Game interface is drawn on the VGA display by writing values into the pixel buffer
+  - Wrote helper functions to draw lines, circles, etc. on the VGA display by calculating the appropriate pixel locations to draw on
+  - Screen is constantly refreshed to create animation
+- The code running on DE1-SoC computer and the PS/2 keyboard input can be simulated using CPUlator
