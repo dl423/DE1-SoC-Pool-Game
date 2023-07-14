@@ -5,7 +5,6 @@
 
 # Quick Video Demo:
 
-Uploading pool game demo.mp4…
 
 # Technical implementation:
 Programming language:  C
