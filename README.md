@@ -5,7 +5,7 @@
 
 # Quick Video Demo:
 
-<iframe src="https://drive.google.com/file/d/1OBCACd7CLvhVe8dWXQFIKfmZnavOOpzh/preview" width="640" height="480" allow="autoplay"></iframe>
+https://drive.google.com/file/d/1OBCACd7CLvhVe8dWXQFIKfmZnavOOpzh/view?t=1s
 
 # Technical implementation:
 - Programming language:  C
