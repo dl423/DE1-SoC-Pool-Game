@@ -5,7 +5,7 @@
 
 # Quick Video Demo:
 
-https://drive.google.com/file/d/1OBCACd7CLvhVe8dWXQFIKfmZnavOOpzh/view?usp=drive_link
+<iframe src="https://drive.google.com/file/d/1OBCACd7CLvhVe8dWXQFIKfmZnavOOpzh/preview" width="640" height="480" allow="autoplay"></iframe>
 
 # Technical implementation:
 - Programming language:  C
