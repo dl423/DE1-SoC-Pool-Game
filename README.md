@@ -5,7 +5,6 @@
 
 # Quick Video Demo:
 
-<video src="https://drive.google.com/file/d/1OBCACd7CLvhVe8dWXQFIKfmZnavOOpzh/view?usp=drive_link"> </video>
 
 # Technical implementation:
 - Programming language:  C
